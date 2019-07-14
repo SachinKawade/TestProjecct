@@ -1,4 +1,4 @@
 print("Hello World")
 print("Hello everyone")
 
-print("For branch 1")
+print("Check the update on Github")
